@@ -22,4 +22,4 @@ inject_num = inject_num/2;console.log(inject_num);
 //除以2是因为元素包含导致的重复计算
 //放在浏览器地址栏中，输入javascript: (代码)就能使用了，按F12查看控制台可以得知结果。
 //非常弱智的
-//懒的写python，因为youtube是异步加载，所以做起来麻烦很多
+//懒的写python
